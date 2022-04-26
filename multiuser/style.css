@@ -1,0 +1,50 @@
+body {
+
+		margin: 0;
+		padding: 0;
+	}
+
+	.header {
+
+		width: 100%;
+		background-color: #0cd431;
+		position: relative;
+		z-index: 3;
+	}
+
+	.namasekolah {
+
+		width: 900px;
+		background-color: #0cd431;
+		margin: auto;
+	}
+
+	.logo img {
+
+		width: 160px;
+		height: 130px;
+		padding-top: 5px;
+		display: inline;
+	}
+
+	.logo h2 {
+		position: absolute;
+		word-spacing: 2px;
+		font-family: sans-serif;
+		color: white;
+		width: 354px;
+		height: 100px;
+		margin-left: 20px;
+		margin-top: 30px;
+		text-align: center;
+	}
+
+	.logo h4 {
+		position: absolute;
+		word-spacing: 2px;
+		font-family: sans-serif;
+		color: white;
+		margin-left: 20px;
+		text-align: center;
+	}
+
